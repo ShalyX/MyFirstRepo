@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Shaly. I am a Nigerian learner who is building skills in tech. I enjoy learning new tools and working on practical tasks that help me grow. I want a strong mix of scripting, DevOps, and Web3.
+
+I joined this program to build solid skills in version control. I want to gain confidence with Git and GitHub so I can work on projects with others and manage my work with structure.
